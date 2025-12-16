@@ -32,6 +32,15 @@ Customer_Trends/
 └── README.md
 ```
 
+### Quick File Links
+- 📂 **Raw Data:** [customer_shopping_behaviour.xlsx](data/raw/customer_shopping_behaviour.xlsx)
+- 🧹 **Processed Data:** [customer_shopping_trends_clean.xlsx](data/processed/customer_shopping_trends_clean.xlsx)
+- 📓 **Python EDA Notebook:** [customer_shopping_trends_eda.ipynb](notebooks/customer_shopping_trends_eda.ipynb)
+- 🗄️ **SQL Analysis Queries:** [customer_shopping_trends_analysis.sql](sql/customer_shopping_trends_analysis.sql)
+- 📊 **Power BI Dashboard:** [Customer_Shopping_Trends.pbix](powerbi/Customer_Shopping_Trends.pbix)
+- 📄 **Project Report (PDF):** [Customer_Shopping_Behavior_Analysis.pdf](reports/Customer_Shopping_Behavior_Analysis.pdf)
+- 🖼️ **Dashboard Preview Image:** [dashboard.png](visuals/dashboard.png)
+
 ---
 
 ## Project Overview
