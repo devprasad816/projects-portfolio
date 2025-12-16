@@ -25,7 +25,8 @@ Customer_Trends/
 │   └── customer_shopping_trends_analysis.sql
 ├── powerbi/
 │   └── Customer_Shopping_Trends.pbix
-├── Customer_Shopping_Behavior_Analysis.pdf
+├── reports/
+│   └── Customer_Shopping_Behavior_Analysis.pdf
 ├── visuals/
 │   └── dashboard.png
 └── README.md
