@@ -89,7 +89,7 @@ An interactive Power BI dashboard was developed to communicate insights to stake
 
 ### Dashboard Preview
 
-![Customer Shopping Trends Dashboard](visuals/dashboard.png)
+![Customer Shopping Trends Dashboard](visuals/Dashboard.png)
 
 ### Dashboard Highlights
 
