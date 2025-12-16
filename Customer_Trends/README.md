@@ -32,14 +32,29 @@ Customer_Trends/
 └── README.md
 ```
 
-### Quick File Links
-- 📂 **Raw Data:** [customer_shopping_behaviour.xlsx](data/raw/customer_shopping_behaviour.xlsx)
-- 🧹 **Processed Data:** [customer_shopping_trends_clean.xlsx](data/processed/customer_shopping_trends_clean.xlsx)
-- 📓 **Python EDA Notebook:** [customer_shopping_trends_eda.ipynb](notebooks/customer_shopping_trends_eda.ipynb)
-- 🗄️ **SQL Analysis Queries:** [customer_shopping_trends_analysis.sql](sql/customer_shopping_trends_analysis.sql)
-- 📊 **Power BI Dashboard:** [Customer_Shopping_Trends.pbix](powerbi/Customer_Shopping_Trends.pbix)
-- 📄 **Project Report (PDF):** [Customer_Shopping_Behavior_Analysis.pdf](reports/Customer_Shopping_Behavior_Analysis.pdf)
-- 🖼️ **Dashboard Preview Image:** [dashboard.png](visuals/dashboard.png)
+## Quick Access Links
+
+- 🖼️ **Dashboard Preview (Image):**  
+  [View Dashboard Image](https://github.com/devprasad816/projects-portfolio/blob/main/Customer_Trends/visuals/Dashboard.png)
+
+- 🗄️ **SQL Analysis (Business Questions & Answers):**  
+  [customer_shopping_trends_analysis.sql](https://github.com/devprasad816/projects-portfolio/blob/main/Customer_Trends/sql/customer_shopping_trends_analysis.sql)
+
+- 📄 **Project Report (PDF):**  
+  [Customer Shopping Behavior Analysis.pdf](https://github.com/devprasad816/projects-portfolio/blob/main/Customer_Trends/reports/Customer%20Shopping%20Behavior%20Analysis.pdf)
+
+- 📊 **Power BI Dashboard File:**  
+  [Customer Shopping Trends.pbix](https://github.com/devprasad816/projects-portfolio/blob/main/Customer_Trends/powerbi/Customer%20Shopping%20Trends.pbix)
+
+- 📓 **Python EDA Notebook:**  
+  [customer shopping trends eta.ipynb](https://github.com/devprasad816/projects-portfolio/blob/main/Customer_Trends/notebooks/customer%20shopping%20trends%20eta.ipynb)
+
+- 🧹 **Processed Dataset:**  
+  [customer_shopping_trends_clean.csv](https://github.com/devprasad816/projects-portfolio/blob/main/Customer_Trends/data/processed/customer_shopping_trends_clean.csv)
+
+- 📂 **Raw Dataset:**  
+  [customer_shopping_behaviour.csv](https://github.com/devprasad816/projects-portfolio/blob/main/Customer_Trends/data/raw/customer_shopping_behaviour.csv)
+
 
 ---
 
