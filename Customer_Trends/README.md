@@ -1,5 +1,15 @@
 # Customer Shopping Trends Analysis
 
+## Business Problem Statement
+A leading retail company aims to better understand customer shopping behavior to improve sales performance, customer satisfaction, and long-term loyalty. By analyzing purchasing patterns across demographics, product categories, seasons, payment methods, discounts, and sales channels (online vs. offline), this project seeks to identify the key drivers influencing consumer decisions and provide actionable insights to optimize marketing and product strategies.
+
+## Project Deliverables
+- **Data Preparation & Modeling (Python):** Cleaned, transformed, and engineered features from raw transactional data to prepare it for analysis.
+- **Data Analysis (SQL):** Structured the data and executed business-focused queries to uncover insights on customer segments, purchase drivers, discounts, and subscriptions.
+- **Visualization & Insights (Power BI):** Developed an interactive dashboard to highlight trends, patterns, and performance metrics for stakeholder decision-making.
+- **Report Writing:** Documented key findings, insights, and business recommendations in a concise analytical report.
+- **GitHub Repository:** Organized all project assets, including Python notebooks, SQL queries, Power BI files, datasets, and documentation, in a professional repository structure.
+
 ## Project Path
 
 ```
@@ -15,8 +25,7 @@ Customer_Trends/
 │   └── customer_shopping_trends_analysis.sql
 ├── powerbi/
 │   └── Customer_Shopping_Trends.pbix
-├── reports/
-│   └── Customer_Shopping_Behavior_Analysis.pdf
+├── Customer_Shopping_Behavior_Analysis.pdf
 ├── visuals/
 │   └── dashboard.png
 └── README.md
