@@ -8,8 +8,7 @@ The objective of this project is to analyze employee attrition patterns and iden
 
 ![HR Attrition Dashboard](HR_Analytics_Tableau/dashboard.png)
 
-*Note: This image shows the interactive HR attrition dashboard created using Power BI.*
-
+*Interactive HR attrition dashboard created using Tableau.*
 
 ## Dataset Overview
 
