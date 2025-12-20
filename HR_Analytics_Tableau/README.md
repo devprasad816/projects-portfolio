@@ -4,6 +4,16 @@
 
 The objective of this project is to analyze employee attrition patterns and identify the key factors contributing to employee turnover across the organization. The insights from this analysis can help HR and management teams improve retention strategies and workforce planning.
 
+## Project Structure
+
+```text
+projects-portfolio
+└── HR_Analytics_Tableau
+    ├── HR Analytics.twb
+    ├── dashboard.png
+    └── README.md
+
+
 ## Dashboard Preview
 
 ![HR Attrition Dashboard](dashboard.png)
